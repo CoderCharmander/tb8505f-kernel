@@ -1,0 +1,6 @@
+
+config CONFIG_INPUT_MHALL
+	bool "CONFIG_INPUT_MHALL"
+	 
+
+source "drivers/input/misc/mhall/bu52013hfv/Kconfig"
